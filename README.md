@@ -23,9 +23,7 @@ Built using **React**, **FastAPI**, **OpenAI**, and modern UI libraries.
 
 ## 📸 Screenshots
 
-| Upload Page | Result Page |
-|-------------|-------------|
-| ![Upload](public/screenshots/upload1.png) | ![Upload](public/screenshots/upload2.png)|![Result](public/screenshots/Result1.png) |![Result](public/screenshots/Result2.png) 
+| Upload Page | ![Upload](public/screenshots/upload1.png) | ![Upload](public/screenshots/upload2.png)|| Upload Page | ![Result](public/screenshots/Result1.png) |![Result](public/screenshots/Result2.png) 
 
 ---
 
@@ -70,9 +68,6 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm run dev
-
-🔗 Live Demo
-<!-- 👉 [Check it Live](https://your-live-link.vercel.app) -->
 
 ## 📃 License
 
