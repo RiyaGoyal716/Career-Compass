@@ -25,7 +25,7 @@ Built using **React**, **FastAPI**, **OpenAI**, and modern UI libraries.
 
 | Upload Page | Result Page |
 |-------------|-------------|
-| ![Upload](public/screenshots/upload.png) | ![Result](public/screenshots/result.png) |
+| ![Upload](public/screenshots/upload1.png) | ![Upload](public/screenshots/upload2.png)|![Result](public/screenshots/Result1.png) |![Result](public/screenshots/Result2.png) 
 
 ---
 
